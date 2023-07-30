@@ -1,4 +1,4 @@
-# table-limit
+# table-limitiation
 
 ## Project setup
 ```
