@@ -1,4 +1,4 @@
-# dynamic-table
+# table-limit
 
 ## Project setup
 ```
